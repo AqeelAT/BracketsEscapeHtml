@@ -1,0 +1,12 @@
+{
+    "name": "aqeelat.escape-html",
+    "title": "Escape HTML",
+    "description": "Excapes selected strings",
+    "homepage": "https://github.com/AqeelAT/BracketsEscapeHtml",
+    "version": "1.0.0",
+    "author": "Abdullah Alaqeel <a@aqeelat.com> (http://aqeelat.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.14.2"
+    }
+}
