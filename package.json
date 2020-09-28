@@ -3,7 +3,7 @@
     "title": "Escape HTML",
     "description": "Excapes selected strings",
     "homepage": "https://github.com/AqeelAT/BracketsEscapeHtml",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Abdullah Alaqeel <a@aqeelat.com> (http://aqeelat.com)",
     "license": "MIT",
     "engines": {
